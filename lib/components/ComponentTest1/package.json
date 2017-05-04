@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "ComponentTest1",
+  "main": "./index.js"
+}
